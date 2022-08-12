@@ -1,0 +1,21 @@
+.form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+.submit{
+    margin-top: 12px;
+}
+table img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+object-position: 50% 50%;
+}
+.error{
+    margin-bottom: 20px;
+}
+img{
+    object-fit: cover;
+object-position: 50% 50%;
+}
